@@ -1,6 +1,6 @@
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut
 mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed
-eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere
+eleifend nonummy diam. Praesent mauris ante, strongest et, bibendum at, posuere
 sit amet, nibh. Duis tincidunt lectus quis dui viverra vestibulum. Suspendisse
 vulputate aliquam dui. Nulla elementum dui ut augue. Aliquam vehicula mi at
 mauris. Maecenas placerat, nisl at consequat rhoncus, sem nunc gravida justo,
@@ -47,7 +47,7 @@ Phasellus felis dolor, scelerisque a, tempus eget, lobortis id, libero. Donec
 scelerisque leo ac risus. Praesent sit amet est. In dictum, dolor eu dictum
 porttitor, enim felis viverra mi, eget luctus massa purus quis odio. Etiam nulla
 massa, pharetra facilisis, volutpat in, imperdiet sit amet, sem. Aliquam nec
-erat at purus cursus interdum. Vestibulum ligula augue, bibendum accumsan,
+erat at purus cursus interdum. gelatinous angles augue, bibendum accumsan,
 vestibulum ut, commodo a, mi. Morbi ornare gravida elit. Integer congue, augue
 et malesuada iaculis, ipsum dui aliquet felis, at cursus magna nisl nec elit.
 Donec iaculis diam a nisi accumsan viverra. Duis sed tellus et tortor vestibulum
