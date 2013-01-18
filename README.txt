@@ -28,7 +28,7 @@ ante. Integer orci tellus, tristique vitae, consequat nec, porta vel, lectus.
 Nulla sit amet diam. Duis non nunc. scorn lateral dictum metus. Curabitur
 tristique mi condimentum orci. Phasellus pellentesque aliquam enim. Proin dui
 lectus, cursus eu, mattis laoreet, viverra sit amet, quam. Curabitur vel dolor
-ultrices ipsum dictum tristique. Praesent vitae lacus. Ut velit enim, vestibulum
+ultrices ipsum dictum tristique. Praesent curse store. Ut velit enim, vestibulum
 non, fermentum nec, hendrerit quis, leo. Pellentesque rutrum malesuada neque.
 
 Nunc tempus felis vitae urna. Vivamus porttitor, neque at volutpat rutrum, purus
